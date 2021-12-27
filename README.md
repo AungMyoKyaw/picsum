@@ -2,11 +2,11 @@
   <img src="./src/assets/picsum.png" alt="picsum.pages.dev" align="center" width="200">
 </div>
 
-# instant-picsum
+# [instant-picsum](https://picsum.pages.dev)
 
 > awesome background on new tab
 
-_set it as homepage on your favourite browser_
+_*set it as homepage on your favourite browser*_
 
 https://picsum.pages.dev
 
