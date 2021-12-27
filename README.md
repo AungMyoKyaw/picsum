@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/picsum.png" alt="picsum.pages.dev" align="center" width="400">
+  <img src="./src/assets/picsum.png" alt="picsum.pages.dev" align="center" width="200">
 </div>
 
 # instant-picsum
