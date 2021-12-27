@@ -1,4 +1,6 @@
-<img src="./src/assets/picsum.png" alt="picsum.pages.dev" align="center" width="400">
+<div align="center">
+  <img src="./src/assets/picsum.png" alt="picsum.pages.dev" align="center" width="400">
+</div>
 
 # instant-picsum
 
