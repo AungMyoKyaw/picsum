@@ -4,4 +4,4 @@
 
 _set it as homepage on your favourite browser_
 
-picsum.pages.dev
+https://picsum.pages.dev

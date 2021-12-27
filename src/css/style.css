@@ -15,7 +15,7 @@ body {
 
 #overlay {
   background: black;
-  opacity: 0.1;
+  opacity: 0.01;
 }
 
 #content {
