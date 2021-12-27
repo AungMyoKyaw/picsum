@@ -1,0 +1,45 @@
+a {
+  text-decoration: none;
+  font-weight: bolder;
+}
+a:hover {
+  background-color: white;
+}
+body {
+  background: black;
+  transition: background-image 1s ease-in-out;
+  background-size: cover;
+  background-position: 50% 50%;
+  margin: 0;
+}
+
+#overlay {
+  background: black;
+  opacity: 0.1;
+}
+
+#content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#amk {
+  font-family: "Permanent Marker";
+  font-size: 4.4em;
+  margin: 0;
+}
+
+#yellow {
+  color: #fecb00;
+}
+
+#green {
+  color: #34b233;
+}
+
+#red {
+  color: #ea2839;
+}
